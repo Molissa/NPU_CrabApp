@@ -1,2 +1,1 @@
-"# NPU_CrabApp" 
-"# NPU_CrabApp" 
+Just unzip and import to your Android Studio
